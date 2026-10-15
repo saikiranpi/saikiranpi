@@ -39,31 +39,6 @@
 </div>
 
 ---
-
-### 💫 About Me
-
-```yaml
-name: Saikiran Pinapathruni
-role: Senior Cloud & DevOps Consultant | Tech Educator
-initiative: Founder @ Cloud Vishwakarma
-focus_areas:
-  - Multi-Cloud Architecture (AWS & Azure)
-  - Kubernetes & Cloud-Native Ecosystem
-  - Infrastructure as Code (Terraform & Terragrunt)
-  - GitOps & Zero-Downtime CI/CD Pipelines
-  - DevSecOps & Production Observability (SRE)
-current_mission: "Bridging the gap between theory and real-world production DevOps"
-fun_fact: "I can debug a failing pipeline in minutes... and fall asleep in seven! ⚡"
-```
-
-- 🏛️ **Founder & Lead Instructor** at [**Cloud Vishwakarma**](https://saikiranpi.in) — building hands-on labs and in-depth training modules for real-world DevOps engineers.
-- 🎯 **1:1 Career Mentor** on [**Topmate**](https://topmate.io/pinapathruni_saikiran) — helping hundreds of aspiring and experienced professionals with career roadmaps, resume evaluations, and mock interviews.
-- 🎥 **DevOps Content Creator** on [**YouTube**](https://www.youtube.com/@SaiKirannPinapathruni) — delivering architecture walkthroughs, certification guidance, and end-to-end projects.
-- ✍️ **Technical Writer** on [**Medium**](https://medium.com/@pinapathrunisaikiran) — sharing deep dives on cloud infrastructure, container orchestration, and troubleshooting.
-- 🐳 **Open-Source & Container Publisher** on [**Docker Hub**](https://hub.docker.com/u/kiran2361993) — publishing reusable base images and practical lab toolchains.
-
----
-
 ### 🚀 Ecosystem & Portals
 
 <table>
