@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="140" viewBox="0 0 1000 140" role="img" aria-label="Footer wave">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#0ea5e9"/><stop offset="0.5" stop-color="#6366f1"/><stop offset="1" stop-color="#a855f7"/></linearGradient></defs>
+<g fill="url(#g)">
+<path opacity="0.25" d="M0,70 C125,30 250,110 375,70 C500,30 625,110 750,70 C875,30 1000,110 1125,70 C1250,30 1375,110 1500,70 C1625,30 1750,110 1875,70 L1875,140 L0,140Z"><animateTransform attributeName="transform" type="translate" values="0 0;-750 0" dur="14s" repeatCount="indefinite"/></path>
+<path opacity="0.45" d="M0,90 C125,60 250,120 375,90 C500,60 625,120 750,90 C875,60 1000,120 1125,90 C1250,60 1375,120 1500,90 C1625,60 1750,120 1875,90 L1875,140 L0,140Z"><animateTransform attributeName="transform" type="translate" values="-750 0;0 0" dur="10s" repeatCount="indefinite"/></path>
+<path opacity="0.9" d="M0,112 C125,92 250,132 375,112 C500,92 625,132 750,112 C875,92 1000,132 1125,112 C1250,92 1375,132 1500,112 C1625,92 1750,132 1875,112 L1875,140 L0,140Z"><animateTransform attributeName="transform" type="translate" values="0 0;-750 0" dur="7s" repeatCount="indefinite"/></path>
+</g></svg>
