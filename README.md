@@ -152,8 +152,6 @@ philosophy: "Automate everything. Architect for resilience. Share knowledge rele
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=saikiranpi&color=0A66C2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-
 <br/><br/>
 
 <i>"Automate everything, architect for resilience, and share knowledge relentlessly."</i>
