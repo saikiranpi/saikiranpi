@@ -194,7 +194,7 @@
 
   <!-- Profile Visitor Counter -->
   <p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=saikiranpi&label=Profile%20Views&icon=5&pretty=true" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=saikiranpi&color=0A66C2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 
   <p>
