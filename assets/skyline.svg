@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="400" viewBox="0 0 1000 400" role="img" aria-label="Animated 3D skill skyline">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#050816"/><stop offset="1" stop-color="#0d1233"/></linearGradient>
+<filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1000" height="400" rx="20" fill="url(#bg)"/>
+<text x="40" y="44" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" letter-spacing="3" fill="#64748b">SKILL SKYLINE</text>
+<text x="40" y="70" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#e2e8f0">The stack I build and teach with</text>
+<g stroke="#38bdf8" stroke-opacity="0.18" fill="none">
+<line x1="40" y1="318" x2="100" y2="350"/>
+<line x1="132" y1="318" x2="192" y2="350"/>
+<line x1="224" y1="318" x2="284" y2="350"/>
+<line x1="316" y1="318" x2="376" y2="350"/>
+<line x1="408" y1="318" x2="468" y2="350"/>
+<line x1="500" y1="318" x2="560" y2="350"/>
+<line x1="592" y1="318" x2="652" y2="350"/>
+<line x1="684" y1="318" x2="744" y2="350"/>
+<line x1="776" y1="318" x2="836" y2="350"/>
+<line x1="868" y1="318" x2="928" y2="350"/>
+<line x1="960" y1="318" x2="1020" y2="350"/>
+<line x1="40" y1="318" x2="960" y2="318"/><line x1="100" y1="350" x2="1020" y2="350"/></g>
+<g transform="translate(120,312)">
+<ellipse cy="16" rx="42" ry="22" fill="#fb923c" opacity="0.12"/>
+<polygon points="-32,0 0,16 0,-134 -32,-150" fill="#9b5a25"><animate attributeName="points" values="-32,0 0,16 0,15.99 -32,-0.01;-32,0 0,16 0,-134 -32,-150;-32,0 0,16 0,-134 -32,-150" keyTimes="0;0.16;1" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1" dur="10s" begin="0.0s" repeatCount="indefinite"/></polygon>
+<polygon points="0,16 32,0 32,-150 0,-134" fill="#5f3716"><animate attributeName="points" values="0,16 32,0 32,-0.01 0,15.99;0,16 32,0 32,-150 0,-134;0,16 32,0 32,-150 0,-134" keyTimes="0;0.16;1" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1" dur="10s" begin="0.0s" repeatCount="indefinite"/></polygon>
+<polygon points="0,-166 32,-150 0,-134 -32,-150" fill="#ffaf48" filter="url(#glow)"><animate attributeName="points" values="0,-16.01 32,-0.01 0,15.99 -32,-0.01;0,-166 32,-150 0,-134 -32,-150;0,-166 32,-150 0,-134 -32,-150" keyTimes="0;0.16;1" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1" dur="10s" begin="0.0s" repeatCount="indefinite"/></polygon>
+<line x1="-32" y1="-30.0" x2="0" y2="-14.0" stroke="#fff" stroke-opacity="0.07"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.16;1" dur="10s" begin="0.0s" repeatCount="indefinite"/></line>
+<line x1="-32" y1="-60.0" x2="0" y2="-44.0" stroke="#fff" stroke-opacity="0.07"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.16;1" dur="10s" begin="0.0s" repeatCount="indefinite"/></line>
+<line x1="-32" y1="-90.0" x2="0" y2="-74.0" stroke="#fff" stroke-opacity="0.07"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.16;1" dur="10s" begin="0.0s" repeatCount="indefinite"/></line>
+<line x1="-32" y1="-120.0" x2="0" y2="-104.0" stroke="#fff" stroke-opacity="0.07"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.16;1" dur="10s" begin="0.0s" repeatCount="indefinite"/></line>
+<circle r="2.2" cx="0" fill="#ffbd4e"><animate attributeName="cy" values="-170;-220" dur="2.6s" begin="1.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="2.6s" begin="1.0s" repeatCount="indefinite"/></circle>
+<text y="50" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#e2e8f0">AWS</text>
+</g>
+<g transform="translate(232,312)">
+<ellipse cy="16" rx="42" ry="22" fill="#38bdf8" opacity="0.12"/>
+<polygon points="-32,0 0,16 0,-154 -32,-170" fill="#227599"><animate attributeName="points" values="-32,0 0,16 0,15.99 -32,-0.01;-32,0 0,16 0,-154 -32,-170;-32,0 0,16 0,-154 -32,-170" keyTimes="0;0.16;1" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1" dur="10s" begin="0.18s" repeatCount="indefinite"/></polygon>
+<polygon points="0,16 32,0 32,-170 0,-154" fill="#15475e"><animate attributeName="points" values="0,16 32,0 32,-0.01 0,15.99;0,16 32,0 32,-170 0,-154;0,16 32,0 32,-170 0,-154" keyTimes="0;0.16;1" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1" dur="10s" begin="0.18s" repeatCount="indefinite"/></polygon>
+<polygon points="0,-186 32,-170 0,-154 -32,-170" fill="#43e2ff" filter="url(#glow)"><animate attributeName="points" values="0,-16.01 32,-0.01 0,15.99 -32,-0.01;0,-186 32,-170 0,-154 -32,-170;0,-186 32,-170 0,-154 -32,-170" keyTimes="0;0.16;1" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1" dur="10s" begin="0.18s" repeatCount="indefinite"/></polygon>
+<line x1="-32" y1="-34.0" x2="0" y2="-18.0" stroke="#fff" stroke-opacity="0.07"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.16;1" dur="10s" begin="0.18s" repeatCount="indefinite"/></line>
+<line x1="-32" y1="-68.0" x2="0" y2="-52.0" stroke="#fff" stroke-opacity="0.07"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.16;1" dur="10s" begin="0.18s" repeatCount="indefinite"/></line>
+<line x1="-32" y1="-102.0" x2="0" y2="-86.0" stroke="#fff" stroke-opacity="0.07"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.16;1" dur="10s" begin="0.18s" repeatCount="indefinite"/></line>
+<line x1="-32" y1="-136.0" x2="0" y2="-120.0" stroke="#fff" stroke-opacity="0.07"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.16;1" dur="10s" begin="0.18s" repeatCount="indefinite"/></line>
+<circle r="2.2" cx="0" fill="#48f5ff"><animate attributeName="cy" values="-190;-240" dur="2.6s" begin="1.18s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="2.6s" begin="1.18s" repeatCount="indefinite"/></circle>
+<text y="50" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#e2e8f0">Kubernetes</text>
+</g>
+<g transform="translate(344,312)">
+<ellipse cy="16" rx="42" ry="22" fill="#a78bfa" opacity="0.12"/>
+<polygon points="-32,0 0,16 0,-124 -32,-140" fill="#67569b"><animate attributeName="points" values="-32,0 0,16 0,15.99 -32,-0.01;-32,0 0,16 0,-124 -32,-140;-32,0 0,16 0,-124 -32,-140" keyTimes="0;0.16;1" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1" dur="10s" begin="0.36s" repeatCount="indefinite"/></polygon>
+<polygon points="0,16 32,0 32,-140 0,-124" fill="#3f345f"><animate attributeName="points" values="0,16 32,0 32,-0.01 0,15.99;0,16 32,0 32,-140 0,-124;0,16 32,0 32,-140 0,-124" keyTimes="0;0.16;1" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1" dur="10s" begin="0.36s" repeatCount="indefinite"/></polygon>
+<polygon points="0,-156 32,-140 0,-124 -32,-140" fill="#c8a6ff" filter="url(#glow)"><animate attributeName="points" values="0,-16.01 32,-0.01 0,15.99 -32,-0.01;0,-156 32,-140 0,-124 -32,-140;0,-156 32,-140 0,-124 -32,-140" keyTimes="0;0.16;1" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1" dur="10s" begin="0.36s" repeatCount="indefinite"/></polygon>
+<line x1="-32" y1="-28.0" x2="0" y2="-12.0" stroke="#fff" stroke-opacity="0.07"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.16;1" dur="10s" begin="0.36s" repeatCount="indefinite"/></line>
+<line x1="-32" y1="-56.0" x2="0" y2="-40.0" stroke="#fff" stroke-opacity="0.07"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.16;1" dur="10s" begin="0.36s" repeatCount="indefinite"/></line>
+<line x1="-32" y1="-84.0" x2="0" y2="-68.0" stroke="#fff" stroke-opacity="0.07"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.16;1" dur="10s" begin="0.36s" repeatCount="indefinite"/></line>
+<line x1="-32" y1="-112.0" x2="0" y2="-96.0" stroke="#fff" stroke-opacity="0.07"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.16;1" dur="10s" begin="0.36s" repeatCount="indefinite"/></line>
+<circle r="2.2" cx="0" fill="#d9b4ff"><animate attributeName="cy" values="-160;-210" dur="2.6s" begin="1.3599999999999999s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="2.6s" begin="1.3599999999999999s" repeatCount="indefinite"/></circle>
+<text y="50" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#e2e8f0">Terraform</text>
+</g>
+<g transform="translate(456,312)">
+<ellipse cy="16" rx="42" ry="22" fill="#22d3ee" opacity="0.12"/>
+<polygon points="-32,0 0,16 0,-109 -32,-125" fill="#158293"><animate attributeName="points" values="-32,0 0,16 0,15.99 -32,-0.01;-32,0 0,16 0,-109 -32,-125;-32,0 0,16 0,-109 -32,-125" keyTimes="0;0.16;1" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1" dur="10s" begin="0.54s" repeatCount="indefinite"/></polygon>
+<polygon points="0,16 32,0 32,-125 0,-109" fill="#0c505a"><animate attributeName="points" values="0,16 32,0 32,-0.01 0,15.99;0,16 32,0 32,-125 0,-109;0,16 32,0 32,-125 0,-109" keyTimes="0;0.16;1" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1" dur="10s" begin="0.54s" repeatCount="indefinite"/></polygon>
+<polygon points="0,-141 32,-125 0,-109 -32,-125" fill="#28fdff" filter="url(#glow)"><animate attributeName="points" values="0,-16.01 32,-0.01 0,15.99 -32,-0.01;0,-141 32,-125 0,-109 -32,-125;0,-141 32,-125 0,-109 -32,-125" keyTimes="0;0.16;1" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1" dur="10s" begin="0.54s" repeatCount="indefinite"/></polygon>
+<line x1="-32" y1="-25.0" x2="0" y2="-9.0" stroke="#fff" stroke-opacity="0.07"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.16;1" dur="10s" begin="0.54s" repeatCount="indefinite"/></line>
+<line x1="-32" y1="-50.0" x2="0" y2="-34.0" stroke="#fff" stroke-opacity="0.07"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.16;1" dur="10s" begin="0.54s" repeatCount="indefinite"/></line>
+<line x1="-32" y1="-75.0" x2="0" y2="-59.0" stroke="#fff" stroke-opacity="0.07"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.16;1" dur="10s" begin="0.54s" repeatCount="indefinite"/></line>
+<line x1="-32" y1="-100.0" x2="0" y2="-84.0" stroke="#fff" stroke-opacity="0.07"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.16;1" dur="10s" begin="0.54s" repeatCount="indefinite"/></line>
+<circle r="2.2" cx="0" fill="#2cffff"><animate attributeName="cy" values="-145;-195" dur="2.6s" begin="1.54s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="2.6s" begin="1.54s" repeatCount="indefinite"/></circle>
+<text y="50" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#e2e8f0">CI/CD</text>
+</g>
+<g transform="translate(568,312)">
+<ellipse cy="16" rx="42" ry="22" fill="#f472b6" opacity="0.12"/>
+<polygon points="-32,0 0,16 0,-94 -32,-110" fill="#974670"><animate attributeName="points" values="-32,0 0,16 0,15.99 -32,-0.01;-32,0 0,16 0,-94 -32,-110;-32,0 0,16 0,-94 -32,-110" keyTimes="0;0.16;1" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1" dur="10s" begin="0.72s" repeatCount="indefinite"/></polygon>
+<polygon points="0,16 32,0 32,-110 0,-94" fill="#5c2b45"><animate attributeName="points" values="0,16 32,0 32,-0.01 0,15.99;0,16 32,0 32,-110 0,-94;0,16 32,0 32,-110 0,-94" keyTimes="0;0.16;1" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1" dur="10s" begin="0.72s" repeatCount="indefinite"/></polygon>
+<polygon points="0,-126 32,-110 0,-94 -32,-110" fill="#ff88da" filter="url(#glow)"><animate attributeName="points" values="0,-16.01 32,-0.01 0,15.99 -32,-0.01;0,-126 32,-110 0,-94 -32,-110;0,-126 32,-110 0,-94 -32,-110" keyTimes="0;0.16;1" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1" dur="10s" begin="0.72s" repeatCount="indefinite"/></polygon>
+<line x1="-32" y1="-22.0" x2="0" y2="-6.0" stroke="#fff" stroke-opacity="0.07"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.16;1" dur="10s" begin="0.72s" repeatCount="indefinite"/></line>
+<line x1="-32" y1="-44.0" x2="0" y2="-28.0" stroke="#fff" stroke-opacity="0.07"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.16;1" dur="10s" begin="0.72s" repeatCount="indefinite"/></line>
+<line x1="-32" y1="-66.0" x2="0" y2="-50.0" stroke="#fff" stroke-opacity="0.07"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.16;1" dur="10s" begin="0.72s" repeatCount="indefinite"/></line>
+<line x1="-32" y1="-88.0" x2="0" y2="-72.0" stroke="#fff" stroke-opacity="0.07"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.16;1" dur="10s" begin="0.72s" repeatCount="indefinite"/></line>
+<circle r="2.2" cx="0" fill="#ff94ec"><animate attributeName="cy" values="-130;-180" dur="2.6s" begin="1.72s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="2.6s" begin="1.72s" repeatCount="indefinite"/></circle>
+<text y="50" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#e2e8f0">GitOps</text>
+</g>
+<g transform="translate(680,312)">
+<ellipse cy="16" rx="42" ry="22" fill="#34d399" opacity="0.12"/>
+<polygon points="-32,0 0,16 0,-114 -32,-130" fill="#20825e"><animate attributeName="points" values="-32,0 0,16 0,15.99 -32,-0.01;-32,0 0,16 0,-114 -32,-130;-32,0 0,16 0,-114 -32,-130" keyTimes="0;0.16;1" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1" dur="10s" begin="0.8999999999999999s" repeatCount="indefinite"/></polygon>
+<polygon points="0,16 32,0 32,-130 0,-114" fill="#13503a"><animate attributeName="points" values="0,16 32,0 32,-0.01 0,15.99;0,16 32,0 32,-130 0,-114;0,16 32,0 32,-130 0,-114" keyTimes="0;0.16;1" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1" dur="10s" begin="0.8999999999999999s" repeatCount="indefinite"/></polygon>
+<polygon points="0,-146 32,-130 0,-114 -32,-130" fill="#3efdb7" filter="url(#glow)"><animate attributeName="points" values="0,-16.01 32,-0.01 0,15.99 -32,-0.01;0,-146 32,-130 0,-114 -32,-130;0,-146 32,-130 0,-114 -32,-130" keyTimes="0;0.16;1" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1" dur="10s" begin="0.8999999999999999s" repeatCount="indefinite"/></polygon>
+<line x1="-32" y1="-26.0" x2="0" y2="-10.0" stroke="#fff" stroke-opacity="0.07"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.16;1" dur="10s" begin="0.8999999999999999s" repeatCount="indefinite"/></line>
+<line x1="-32" y1="-52.0" x2="0" y2="-36.0" stroke="#fff" stroke-opacity="0.07"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.16;1" dur="10s" begin="0.8999999999999999s" repeatCount="indefinite"/></line>
+<line x1="-32" y1="-78.0" x2="0" y2="-62.0" stroke="#fff" stroke-opacity="0.07"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.16;1" dur="10s" begin="0.8999999999999999s" repeatCount="indefinite"/></line>
+<line x1="-32" y1="-104.0" x2="0" y2="-88.0" stroke="#fff" stroke-opacity="0.07"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.16;1" dur="10s" begin="0.8999999999999999s" repeatCount="indefinite"/></line>
+<circle r="2.2" cx="0" fill="#43ffc6"><animate attributeName="cy" values="-150;-200" dur="2.6s" begin="1.9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="2.6s" begin="1.9s" repeatCount="indefinite"/></circle>
+<text y="50" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#e2e8f0">Observability</text>
+</g>
+<g transform="translate(792,312)">
+<ellipse cy="16" rx="42" ry="22" fill="#facc15" opacity="0.12"/>
+<polygon points="-32,0 0,16 0,-104 -32,-120" fill="#9b7e0d"><animate attributeName="points" values="-32,0 0,16 0,15.99 -32,-0.01;-32,0 0,16 0,-104 -32,-120;-32,0 0,16 0,-104 -32,-120" keyTimes="0;0.16;1" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1" dur="10s" begin="1.08s" repeatCount="indefinite"/></polygon>
+<polygon points="0,16 32,0 32,-120 0,-104" fill="#5f4d07"><animate attributeName="points" values="0,16 32,0 32,-0.01 0,15.99;0,16 32,0 32,-120 0,-104;0,16 32,0 32,-120 0,-104" keyTimes="0;0.16;1" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1" dur="10s" begin="1.08s" repeatCount="indefinite"/></polygon>
+<polygon points="0,-136 32,-120 0,-104 -32,-120" fill="#fff419" filter="url(#glow)"><animate attributeName="points" values="0,-16.01 32,-0.01 0,15.99 -32,-0.01;0,-136 32,-120 0,-104 -32,-120;0,-136 32,-120 0,-104 -32,-120" keyTimes="0;0.16;1" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1" dur="10s" begin="1.08s" repeatCount="indefinite"/></polygon>
+<line x1="-32" y1="-24.0" x2="0" y2="-8.0" stroke="#fff" stroke-opacity="0.07"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.16;1" dur="10s" begin="1.08s" repeatCount="indefinite"/></line>
+<line x1="-32" y1="-48.0" x2="0" y2="-32.0" stroke="#fff" stroke-opacity="0.07"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.16;1" dur="10s" begin="1.08s" repeatCount="indefinite"/></line>
+<line x1="-32" y1="-72.0" x2="0" y2="-56.0" stroke="#fff" stroke-opacity="0.07"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.16;1" dur="10s" begin="1.08s" repeatCount="indefinite"/></line>
+<line x1="-32" y1="-96.0" x2="0" y2="-80.0" stroke="#fff" stroke-opacity="0.07"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.16;1" dur="10s" begin="1.08s" repeatCount="indefinite"/></line>
+<circle r="2.2" cx="0" fill="#ffff1b"><animate attributeName="cy" values="-140;-190" dur="2.6s" begin="2.08s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="2.6s" begin="2.08s" repeatCount="indefinite"/></circle>
+<text y="50" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#e2e8f0">DevSecOps</text>
+</g>
+<g transform="translate(904,312)">
+<ellipse cy="16" rx="42" ry="22" fill="#60a5fa" opacity="0.12"/>
+<polygon points="-32,0 0,16 0,-84 -32,-100" fill="#3b669b"><animate attributeName="points" values="-32,0 0,16 0,15.99 -32,-0.01;-32,0 0,16 0,-84 -32,-100;-32,0 0,16 0,-84 -32,-100" keyTimes="0;0.16;1" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1" dur="10s" begin="1.26s" repeatCount="indefinite"/></polygon>
+<polygon points="0,16 32,0 32,-100 0,-84" fill="#243e5f"><animate attributeName="points" values="0,16 32,0 32,-0.01 0,15.99;0,16 32,0 32,-100 0,-84;0,16 32,0 32,-100 0,-84" keyTimes="0;0.16;1" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1" dur="10s" begin="1.26s" repeatCount="indefinite"/></polygon>
+<polygon points="0,-116 32,-100 0,-84 -32,-100" fill="#73c6ff" filter="url(#glow)"><animate attributeName="points" values="0,-16.01 32,-0.01 0,15.99 -32,-0.01;0,-116 32,-100 0,-84 -32,-100;0,-116 32,-100 0,-84 -32,-100" keyTimes="0;0.16;1" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1" dur="10s" begin="1.26s" repeatCount="indefinite"/></polygon>
+<line x1="-32" y1="-20.0" x2="0" y2="-4.0" stroke="#fff" stroke-opacity="0.07"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.16;1" dur="10s" begin="1.26s" repeatCount="indefinite"/></line>
+<line x1="-32" y1="-40.0" x2="0" y2="-24.0" stroke="#fff" stroke-opacity="0.07"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.16;1" dur="10s" begin="1.26s" repeatCount="indefinite"/></line>
+<line x1="-32" y1="-60.0" x2="0" y2="-44.0" stroke="#fff" stroke-opacity="0.07"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.16;1" dur="10s" begin="1.26s" repeatCount="indefinite"/></line>
+<line x1="-32" y1="-80.0" x2="0" y2="-64.0" stroke="#fff" stroke-opacity="0.07"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.16;1" dur="10s" begin="1.26s" repeatCount="indefinite"/></line>
+<circle r="2.2" cx="0" fill="#7cd6ff"><animate attributeName="cy" values="-120;-170" dur="2.6s" begin="2.26s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="2.6s" begin="2.26s" repeatCount="indefinite"/></circle>
+<text y="50" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#e2e8f0">Python · Bash</text>
+</g>
+</svg>
