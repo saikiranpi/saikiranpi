@@ -1,7 +1,6 @@
 <div align="center">
 
 <a href="https://saikiranpi.in" target="_blank">
-  <img src="assets/banner.svg" width="100%" alt="Saikiran Pinapathruni - Cloud and DevOps Architect" />
 </a>
 
 <br/>
