@@ -1,16 +1,10 @@
 <div align="center">
 
-<!-- Animated header -->
 <a href="https://saikiranpi.in" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0ea5e9,50:6366f1,100:a855f7&height=240&section=header&text=Saikiran%20Pinapathruni&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Cloud%20%26%20DevOps%20Architect%20%7C%20Founder%20%40%20Cloud%20Vishwakarma%20%7C%20Mentor&descSize=17&descAlignY=60" width="100%" alt="Saikiran Pinapathruni - Cloud and DevOps Architect" />
+  <img src="assets/banner.svg" width="100%" alt="Saikiran Pinapathruni - Cloud and DevOps Architect" />
 </a>
 
-<!-- Typing tagline -->
-<a href="https://saikiranpi.in">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=780&height=40&lines=Founder+%40+Cloud+Vishwakarma;Senior+Cloud+%26+DevOps+Consultant;1%3A1+Career+Mentor+on+Topmate;Kubernetes+%7C+AWS+%7C+Terraform+%7C+DevSecOps;Production-grade+DevOps%2C+taught+hands-on" alt="Typing SVG" />
-</a>
-
-<br/><br/>
+<br/>
 
 <!-- Custom animated 3D hero (assets/hero-orbit.svg) -->
 <img src="assets/hero-orbit.svg" width="100%" alt="Animated 3D orbit of cloud technologies and CI/CD pipeline" />
@@ -95,11 +89,7 @@ philosophy: "Automate everything. Architect for resilience. Share knowledge rele
 
 <div align="center">
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,ansible,kubernetes,docker,podman,helm,istio,argocd,jenkins,githubactions,prometheus,grafana,elasticsearch,python,bash,powershell,nginx,redis,mongodb,linux,git&perline=12&theme=dark" alt="Tech stack icons" />
-</a>
 
-<br/><br/>
 
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
 <img src="https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
@@ -115,17 +105,9 @@ philosophy: "Automate everything. Architect for resilience. Share knowledge rele
 
 ## 🏗️ How I Ship: Reference Pipeline
 
-```mermaid
-flowchart LR
-    A[Commit] --> B[Build and Test]
-    B --> C[SAST / SCA Scan]
-    C --> D[Container Image]
-    D --> E[Trivy Scan]
-    E --> F[ArgoCD GitOps Sync]
-    F --> G[EKS / AKS Cluster]
-    G --> H[Prometheus and Grafana]
-    H -. feedback .-> A
-```
+<div align="center">
+<img src="assets/pipeline.svg" width="100%" alt="Animated reference pipeline: commit, build, scan, package, secure, sync, run, with a monitoring feedback loop" />
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
@@ -141,45 +123,18 @@ flowchart LR
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## 🧊 3D Contribution Universe
+## 🧊 Skill Skyline
 
 <div align="center">
-
-<!-- Generated daily by .github/workflows/profile-3d.yml -->
-<img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution graph" />
-
+<img src="assets/skyline.svg" width="100%" alt="Animated 3D skill skyline" />
 </div>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saikiranpi/saikiranpi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saikiranpi/saikiranpi/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/saikiranpi/saikiranpi/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
-
-## 📊 Activity and Metrics
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=saikiranpi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=12" height="170" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikiranpi&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saikiranpi&theme=tokyonight&hide_border=true&border_radius=12" width="100%" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saikiranpi&theme=tokyo-night&hide_border=true&area=true&radius=12" width="100%" alt="Contribution activity graph" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=saikiranpi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -204,6 +159,6 @@ flowchart LR
 
 <i>"Automate everything, architect for resilience, and share knowledge relentlessly."</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:a855f7&height=120&section=footer&animation=fadeIn" width="100%" alt="footer" />
+<img src="assets/footer.svg" width="100%" alt="footer" />
 
 </div>
