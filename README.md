@@ -1,7 +1,9 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24,36&height=220&section=header&text=Saikiran%20Pinapathruni&fontSize=42&fontAlignY=36&desc=Cloud%20%26%20DevOps%20Architect%20%7C%20Founder%20%40%20Cloud%20Vishwakarma%20%7C%20Mentor&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
+  <a href="https://www.saikiranpi.in" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24,36&height=220&section=header&text=Saikiran%20Pinapathruni&fontSize=42&fontAlignY=36&desc=Cloud%20%26amp%3B%20DevOps%20Architect%20%7C%20Founder%20%40%20Cloud%20Vishwakarma%20%7C%20Mentor&descAlignY=60&descAlign=50" width="100%" alt="Saikiran Pinapathruni - Cloud & DevOps Architect" />
+  </a>
 
   <!-- Animated Typing Tagline -->
   <a href="https://saikiranpi.in">
