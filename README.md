@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <a href="https://www.saikiranpi.in" target="_blank">
+  <a href="https://saikiranpi.in" target="_blank">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24,36&height=220&section=header&text=Saikiran%20Pinapathruni&fontSize=42&fontAlignY=36&desc=Cloud%20%26amp%3B%20DevOps%20Architect%20%7C%20Founder%20%40%20Cloud%20Vishwakarma%20%7C%20Mentor&descAlignY=60&descAlign=50" width="100%" alt="Saikiran Pinapathruni - Cloud & DevOps Architect" />
   </a>
 
@@ -16,7 +16,7 @@
 
   <!-- Social & Platform Connect Badges -->
   <p align="center">
-    <a href="https://www.saikiranpi.in" target="_blank">
+    <a href="https://saikiranpi.in" target="_blank">
       <img src="https://img.shields.io/badge/🌐%20Cloud%20Vishwakarma-0A66C2?style=for-the-badge&logoColor=white" alt="Portal" />
     </a>
     <a href="https://topmate.io/pinapathruni_saikiran" target="_blank">
@@ -25,7 +25,7 @@
     <a href="https://www.youtube.com/@SaiKirannPinapathruni" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
     </a>
-    <a href="https://www.linkedin.com/in/saikiran-p-a0243569/" target="_blank">
+    <a href="https://www.linkedin.com/in/saikiranpinapathruni/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://medium.com/@pinapathrunisaikiran" target="_blank">
@@ -56,7 +56,7 @@ current_mission: "Bridging the gap between theory and real-world production DevO
 fun_fact: "I can debug a failing pipeline in minutes... and fall asleep in seven! ⚡"
 ```
 
-- 🏛️ **Founder & Lead Instructor** at [**Cloud Vishwakarma**](https://www.saikiranpi.in) — building hands-on labs and in-depth training modules for real-world DevOps engineers.
+- 🏛️ **Founder & Lead Instructor** at [**Cloud Vishwakarma**](https://saikiranpi.in) — building hands-on labs and in-depth training modules for real-world DevOps engineers.
 - 🎯 **1:1 Career Mentor** on [**Topmate**](https://topmate.io/pinapathruni_saikiran) — helping hundreds of aspiring and experienced professionals with career roadmaps, resume evaluations, and mock interviews.
 - 🎥 **DevOps Content Creator** on [**YouTube**](https://www.youtube.com/@SaiKirannPinapathruni) — delivering architecture walkthroughs, certification guidance, and end-to-end projects.
 - ✍️ **Technical Writer** on [**Medium**](https://medium.com/@pinapathrunisaikiran) — sharing deep dives on cloud infrastructure, container orchestration, and troubleshooting.
@@ -71,7 +71,7 @@ fun_fact: "I can debug a failing pipeline in minutes... and fall asleep in seven
     <td width="50%" valign="top">
       <h3 align="center">🌐 Cloud Vishwakarma</h3>
       <p align="center">
-        <a href="https://www.saikiranpi.in">
+        <a href="https://saikiranpi.in">
           <img src="https://img.shields.io/badge/Visit-Portal-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Cloud Vishwakarma" />
         </a>
       </p>
