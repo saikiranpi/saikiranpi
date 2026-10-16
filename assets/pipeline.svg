@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420" role="img" aria-label="Animated reference CI/CD pipeline from commit to cluster with monitoring feedback loop">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050816"/><stop offset="1" stop-color="#0c1230"/></linearGradient>
+<filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#1b2548" stroke-width="1"/></pattern>
+</defs>
+<rect width="1000" height="420" rx="20" fill="url(#bg)"/><rect width="1000" height="420" rx="20" fill="url(#grid)" opacity="0.45"/>
+<text x="40" y="44" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" letter-spacing="3" fill="#64748b">HOW I SHIP</text>
+<text x="40" y="70" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#e2e8f0">Reference pipeline: commit to cluster, secured at every stage</text>
+<line x1="147" y1="165" x2="178" y2="165" stroke="#475569" stroke-width="2" stroke-dasharray="5 6"><animate attributeName="stroke-dashoffset" values="22;0" dur="1.2s" repeatCount="indefinite"/></line>
+<line x1="282" y1="165" x2="313" y2="165" stroke="#475569" stroke-width="2" stroke-dasharray="5 6"><animate attributeName="stroke-dashoffset" values="22;0" dur="1.2s" repeatCount="indefinite"/></line>
+<line x1="417" y1="165" x2="448" y2="165" stroke="#475569" stroke-width="2" stroke-dasharray="5 6"><animate attributeName="stroke-dashoffset" values="22;0" dur="1.2s" repeatCount="indefinite"/></line>
+<line x1="552" y1="165" x2="583" y2="165" stroke="#475569" stroke-width="2" stroke-dasharray="5 6"><animate attributeName="stroke-dashoffset" values="22;0" dur="1.2s" repeatCount="indefinite"/></line>
+<line x1="687" y1="165" x2="718" y2="165" stroke="#475569" stroke-width="2" stroke-dasharray="5 6"><animate attributeName="stroke-dashoffset" values="22;0" dur="1.2s" repeatCount="indefinite"/></line>
+<line x1="822" y1="165" x2="853" y2="165" stroke="#475569" stroke-width="2" stroke-dasharray="5 6"><animate attributeName="stroke-dashoffset" values="22;0" dur="1.2s" repeatCount="indefinite"/></line>
+<path id="fb" d="M905,267 C905,357 95,357 95,267" fill="none" stroke="#fbbf24" stroke-opacity="0.6" stroke-width="2" stroke-dasharray="4 7"><animate attributeName="stroke-dashoffset" values="0;22" dur="1.2s" repeatCount="indefinite"/></path>
+<text x="500" y="355" text-anchor="middle" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#fbbf24">feedback loop · Prometheus · Grafana · alerts → next commit</text>
+<circle r="5" fill="#fde68a" filter="url(#glow)"><animateMotion dur="6s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear"><mpath href="#fb"/></animateMotion></circle>
+<g transform="translate(95,165)">
+<ellipse cy="14" rx="62" ry="30" fill="#38bdf8" opacity="0" filter="url(#glow)"><animate attributeName="opacity" values="0;0.55;0" keyTimes="0;0.08;0.22" dur="14.0s" begin="0s" repeatCount="indefinite"/></ellipse>
+<polygon points="-50,0 0,25 0,39 -50,14" fill="#19556f"/><polygon points="0,25 50,0 50,14 0,39" fill="#10384a"/><polygon points="0,-25 50,0 0,25 -50,0" fill="#2784ad" stroke="#38bdf8" stroke-opacity="0.9"/>
+<g transform="translate(0,-20)"><animateTransform attributeName="transform" type="translate" values="0 -20;0 -28;0 -20" dur="3s" begin="0.0s" repeatCount="indefinite"/><polygon points="0.0,-20.8 17.6,-11.2 0.0,-1.6 -17.6,-11.2" fill="#46ecff"/><polygon points="-17.6,-11.2 0.0,-1.6 0.0,19.2 -17.6,9.6" fill="#38bdf8"/><polygon points="0.0,-1.6 17.6,-11.2 17.6,9.6 0.0,19.2" fill="#217194"/></g>
+<text y="72" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#f1f5f9">Commit</text>
+<text y="90" text-anchor="middle" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="11" fill="#94a3b8">git · GitHub</text>
+<g transform="translate(34,-34)" opacity="0"><circle r="9" fill="#10b981"/><path d="M-4,0 l3,3 l5,-6" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.1;0.14;0.9;1" dur="14.0s" begin="0s" repeatCount="indefinite"/></g>
+</g>
+<g transform="translate(230,165)">
+<ellipse cy="14" rx="62" ry="30" fill="#22d3ee" opacity="0" filter="url(#glow)"><animate attributeName="opacity" values="0;0.55;0" keyTimes="0;0.08;0.22" dur="14.0s" begin="1.65s" repeatCount="indefinite"/></ellipse>
+<polygon points="-50,0 0,25 0,39 -50,14" fill="#0f5e6b"/><polygon points="0,25 50,0 50,14 0,39" fill="#0a3f47"/><polygon points="0,-25 50,0 0,25 -50,0" fill="#1793a6" stroke="#22d3ee" stroke-opacity="0.9"/>
+<g transform="translate(0,-20)"><animateTransform attributeName="transform" type="translate" values="0 -20;0 -28;0 -20" dur="3s" begin="0.3s" repeatCount="indefinite"/><polygon points="0.0,-20.8 17.6,-11.2 0.0,-1.6 -17.6,-11.2" fill="#2affff"/><polygon points="-17.6,-11.2 0.0,-1.6 0.0,19.2 -17.6,9.6" fill="#22d3ee"/><polygon points="0.0,-1.6 17.6,-11.2 17.6,9.6 0.0,19.2" fill="#147e8e"/></g>
+<text y="72" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#f1f5f9">Build</text>
+<text y="90" text-anchor="middle" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="11" fill="#94a3b8">Jenkins · Actions</text>
+<g transform="translate(34,-34)" opacity="0"><circle r="9" fill="#10b981"/><path d="M-4,0 l3,3 l5,-6" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.1;0.14;0.9;1" dur="14.0s" begin="1.65s" repeatCount="indefinite"/></g>
+</g>
+<g transform="translate(365,165)">
+<ellipse cy="14" rx="62" ry="30" fill="#818cf8" opacity="0" filter="url(#glow)"><animate attributeName="opacity" values="0;0.55;0" keyTimes="0;0.08;0.22" dur="14.0s" begin="3.65s" repeatCount="indefinite"/></ellipse>
+<polygon points="-50,0 0,25 0,39 -50,14" fill="#3a3f6f"/><polygon points="0,25 50,0 50,14 0,39" fill="#262a4a"/><polygon points="0,-25 50,0 0,25 -50,0" fill="#5a62ad" stroke="#818cf8" stroke-opacity="0.9"/>
+<g transform="translate(0,-20)"><animateTransform attributeName="transform" type="translate" values="0 -20;0 -28;0 -20" dur="3s" begin="0.6s" repeatCount="indefinite"/><polygon points="0.0,-20.8 17.6,-11.2 0.0,-1.6 -17.6,-11.2" fill="#a1afff"/><polygon points="-17.6,-11.2 0.0,-1.6 0.0,19.2 -17.6,9.6" fill="#818cf8"/><polygon points="0.0,-1.6 17.6,-11.2 17.6,9.6 0.0,19.2" fill="#4d5494"/></g>
+<text y="72" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#f1f5f9">Scan</text>
+<text y="90" text-anchor="middle" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="11" fill="#94a3b8">SonarQube · SAST</text>
+<g transform="translate(34,-34)" opacity="0"><circle r="9" fill="#10b981"/><path d="M-4,0 l3,3 l5,-6" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.1;0.14;0.9;1" dur="14.0s" begin="3.65s" repeatCount="indefinite"/></g>
+</g>
+<g transform="translate(500,165)">
+<ellipse cy="14" rx="62" ry="30" fill="#a78bfa" opacity="0" filter="url(#glow)"><animate attributeName="opacity" values="0;0.55;0" keyTimes="0;0.08;0.22" dur="14.0s" begin="5.65s" repeatCount="indefinite"/></ellipse>
+<polygon points="-50,0 0,25 0,39 -50,14" fill="#4b3e70"/><polygon points="0,25 50,0 50,14 0,39" fill="#32294b"/><polygon points="0,-25 50,0 0,25 -50,0" fill="#7461af" stroke="#a78bfa" stroke-opacity="0.9"/>
+<g transform="translate(0,-20)"><animateTransform attributeName="transform" type="translate" values="0 -20;0 -28;0 -20" dur="3s" begin="0.8999999999999999s" repeatCount="indefinite"/><polygon points="0.0,-20.8 17.6,-11.2 0.0,-1.6 -17.6,-11.2" fill="#d0adff"/><polygon points="-17.6,-11.2 0.0,-1.6 0.0,19.2 -17.6,9.6" fill="#a78bfa"/><polygon points="0.0,-1.6 17.6,-11.2 17.6,9.6 0.0,19.2" fill="#645396"/></g>
+<text y="72" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#f1f5f9">Package</text>
+<text y="90" text-anchor="middle" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="11" fill="#94a3b8">Docker · ECR</text>
+<g transform="translate(34,-34)" opacity="0"><circle r="9" fill="#10b981"/><path d="M-4,0 l3,3 l5,-6" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.1;0.14;0.9;1" dur="14.0s" begin="5.65s" repeatCount="indefinite"/></g>
+</g>
+<g transform="translate(635,165)">
+<ellipse cy="14" rx="62" ry="30" fill="#f472b6" opacity="0" filter="url(#glow)"><animate attributeName="opacity" values="0;0.55;0" keyTimes="0;0.08;0.22" dur="14.0s" begin="7.65s" repeatCount="indefinite"/></ellipse>
+<polygon points="-50,0 0,25 0,39 -50,14" fill="#6d3351"/><polygon points="0,25 50,0 50,14 0,39" fill="#492236"/><polygon points="0,-25 50,0 0,25 -50,0" fill="#aa4f7f" stroke="#f472b6" stroke-opacity="0.9"/>
+<g transform="translate(0,-20)"><animateTransform attributeName="transform" type="translate" values="0 -20;0 -28;0 -20" dur="3s" begin="1.2s" repeatCount="indefinite"/><polygon points="0.0,-20.8 17.6,-11.2 0.0,-1.6 -17.6,-11.2" fill="#ff8ee3"/><polygon points="-17.6,-11.2 0.0,-1.6 0.0,19.2 -17.6,9.6" fill="#f472b6"/><polygon points="0.0,-1.6 17.6,-11.2 17.6,9.6 0.0,19.2" fill="#92446d"/></g>
+<text y="72" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#f1f5f9">Secure</text>
+<text y="90" text-anchor="middle" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="11" fill="#94a3b8">Trivy · policy</text>
+<g transform="translate(34,-34)" opacity="0"><circle r="9" fill="#10b981"/><path d="M-4,0 l3,3 l5,-6" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.1;0.14;0.9;1" dur="14.0s" begin="7.65s" repeatCount="indefinite"/></g>
+</g>
+<g transform="translate(770,165)">
+<ellipse cy="14" rx="62" ry="30" fill="#fb923c" opacity="0" filter="url(#glow)"><animate attributeName="opacity" values="0;0.55;0" keyTimes="0;0.08;0.22" dur="14.0s" begin="9.65s" repeatCount="indefinite"/></ellipse>
+<polygon points="-50,0 0,25 0,39 -50,14" fill="#70411b"/><polygon points="0,25 50,0 50,14 0,39" fill="#4b2b12"/><polygon points="0,-25 50,0 0,25 -50,0" fill="#af662a" stroke="#fb923c" stroke-opacity="0.9"/>
+<g transform="translate(0,-20)"><animateTransform attributeName="transform" type="translate" values="0 -20;0 -28;0 -20" dur="3s" begin="1.5s" repeatCount="indefinite"/><polygon points="0.0,-20.8 17.6,-11.2 0.0,-1.6 -17.6,-11.2" fill="#ffb64b"/><polygon points="-17.6,-11.2 0.0,-1.6 0.0,19.2 -17.6,9.6" fill="#fb923c"/><polygon points="0.0,-1.6 17.6,-11.2 17.6,9.6 0.0,19.2" fill="#965724"/></g>
+<text y="72" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#f1f5f9">Sync</text>
+<text y="90" text-anchor="middle" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="11" fill="#94a3b8">ArgoCD · GitOps</text>
+<g transform="translate(34,-34)" opacity="0"><circle r="9" fill="#10b981"/><path d="M-4,0 l3,3 l5,-6" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.1;0.14;0.9;1" dur="14.0s" begin="9.65s" repeatCount="indefinite"/></g>
+</g>
+<g transform="translate(905,165)">
+<ellipse cy="14" rx="62" ry="30" fill="#34d399" opacity="0" filter="url(#glow)"><animate attributeName="opacity" values="0;0.55;0" keyTimes="0;0.08;0.22" dur="14.0s" begin="11.65s" repeatCount="indefinite"/></ellipse>
+<polygon points="-50,0 0,25 0,39 -50,14" fill="#175e44"/><polygon points="0,25 50,0 50,14 0,39" fill="#0f3f2d"/><polygon points="0,-25 50,0 0,25 -50,0" fill="#24936b" stroke="#34d399" stroke-opacity="0.9"/>
+<g transform="translate(0,-20)"><animateTransform attributeName="transform" type="translate" values="0 -20;0 -28;0 -20" dur="3s" begin="1.7999999999999998s" repeatCount="indefinite"/><polygon points="0.0,-20.8 17.6,-11.2 0.0,-1.6 -17.6,-11.2" fill="#41ffbf"/><polygon points="-17.6,-11.2 0.0,-1.6 0.0,19.2 -17.6,9.6" fill="#34d399"/><polygon points="0.0,-1.6 17.6,-11.2 17.6,9.6 0.0,19.2" fill="#1f7e5b"/></g>
+<text y="72" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#f1f5f9">Run</text>
+<text y="90" text-anchor="middle" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="11" fill="#94a3b8">EKS · AKS</text>
+<g transform="translate(34,-34)" opacity="0"><circle r="9" fill="#10b981"/><path d="M-4,0 l3,3 l5,-6" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.1;0.14;0.9;1" dur="14.0s" begin="11.65s" repeatCount="indefinite"/></g>
+</g>
+<circle r="7" cy="165" fill="#fff" filter="url(#glow)" opacity="0"><animate attributeName="cx" values="95;905;905" keyTimes="0;0.86;1" dur="14.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.86;0.9;1" dur="14.0s" repeatCount="indefinite"/></circle>
+<rect x="40" y="372" width="920" height="34" rx="9" fill="#020617" stroke="#1e293b"/>
+<text x="58" y="394" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="14" opacity="0"><tspan fill="#34d399">✔</tspan><tspan fill="#cbd5e1"> unit tests · 248 passed</tspan><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.02;0.18;0.2;1" dur="14.0s" begin="0.0s" repeatCount="indefinite"/></text>
+<text x="58" y="394" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="14" opacity="0"><tspan fill="#34d399">✔</tspan><tspan fill="#cbd5e1"> SAST/SCA · 0 critical findings</tspan><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.02;0.18;0.2;1" dur="14.0s" begin="2.8s" repeatCount="indefinite"/></text>
+<text x="58" y="394" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="14" opacity="0"><tspan fill="#34d399">✔</tspan><tspan fill="#cbd5e1"> image signed · trivy clean</tspan><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.02;0.18;0.2;1" dur="14.0s" begin="5.6s" repeatCount="indefinite"/></text>
+<text x="58" y="394" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="14" opacity="0"><tspan fill="#34d399">✔</tspan><tspan fill="#cbd5e1"> argocd · synced · healthy</tspan><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.02;0.18;0.2;1" dur="14.0s" begin="8.399999999999999s" repeatCount="indefinite"/></text>
+<text x="58" y="394" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="14" opacity="0"><tspan fill="#38bdf8">●</tspan><tspan fill="#cbd5e1"> rollout complete · zero downtime</tspan><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.02;0.18;0.2;1" dur="14.0s" begin="11.2s" repeatCount="indefinite"/></text>
+</svg>
